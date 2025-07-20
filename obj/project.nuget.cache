@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uYUG1GOjBYI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas\\source\\repos\\passwdGenerator\\passwdGenerator\\passwdGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\passwordgenerator\\2.1.0\\passwordgenerator.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

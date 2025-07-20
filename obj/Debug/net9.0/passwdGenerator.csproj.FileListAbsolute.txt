@@ -1,0 +1,17 @@
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\bin\Debug\net9.0\passwdGenerator.exe
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\bin\Debug\net9.0\passwdGenerator.deps.json
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\bin\Debug\net9.0\passwdGenerator.runtimeconfig.json
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\bin\Debug\net9.0\passwdGenerator.dll
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\bin\Debug\net9.0\passwdGenerator.pdb
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\bin\Debug\net9.0\PasswordGenerator.dll
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\obj\Debug\net9.0\passwdGenerator.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\obj\Debug\net9.0\passwdGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\obj\Debug\net9.0\passwdGenerator.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\obj\Debug\net9.0\passwdGenerator.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\obj\Debug\net9.0\passwdGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\obj\Debug\net9.0\passwdGe.B66D2A38.Up2Date
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\obj\Debug\net9.0\passwdGenerator.dll
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\obj\Debug\net9.0\refint\passwdGenerator.dll
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\obj\Debug\net9.0\passwdGenerator.pdb
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\obj\Debug\net9.0\passwdGenerator.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\passwdGenerator\passwdGenerator\obj\Debug\net9.0\ref\passwdGenerator.dll
